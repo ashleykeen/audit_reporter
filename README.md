@@ -26,3 +26,7 @@ The audit highlights where the live implementation diverges from the Figma speci
 ## Repository status
 
 This project is intended to preserve generated audit artifacts and supporting documentation for design-to-development review.
+
+---
+
+Created by ashleykeen
